@@ -16,6 +16,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun name() : String {
-        return "Chetan Gani"
+        return "Chetan Test"
     }
 }
